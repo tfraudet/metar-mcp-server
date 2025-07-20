@@ -49,7 +49,7 @@ docker build -t metar-mcp-server .
 And install the mcp-server package:
 
 <details>
-<summary>Install in VS Code (to run it locally)</summary>
+<summary>Install in VS Code (using python version running locally)</summary>
 
 On VS Code, add the following JSON block to your workspace ```.vscode/mcp.json``` file
 
@@ -69,7 +69,7 @@ On VS Code, add the following JSON block to your workspace ```.vscode/mcp.json``
 </details>
 
 <details>
-<summary>Install on Warp</summary>
+<summary>Install on Warp (using docker)</summary>
 
 See Warp [Model Context Protocol Documentation](https://docs.warp.dev/knowledge-and-collaboration/mcp#adding-an-mcp-server) for details.
 
