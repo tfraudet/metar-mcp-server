@@ -1,6 +1,6 @@
 # metar-mcp-server
 
-A simple MCP server for METAR and TAF informations that use stdio transport protocol.
+A lightweight MCP server providing METAR and TAF information over the stdio transport protocol.
 
 ## Requirements
 
