@@ -2,6 +2,8 @@
 
 A lightweight MCP server providing METAR and TAF information over the stdio transport protocol.
 
+![metar-mcp-server in action](./screenshot.png)
+
 ## Requirements
 
 - Python 3.12 or later
