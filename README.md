@@ -15,8 +15,8 @@ A lightweight MCP server providing METAR and TAF information over the stdio tran
 We suggest you to create a virtual environment for running this app with Python 3. Clone this repository and open your terminal/command prompt in a folder.
 
 ```bash
-git clone https://github.com/tfraudet/PyGliderCG.git
-cd ./PyGliderCG
+git clone https://github.com/tfraudet/metar-mcp-server.git
+cd ./metar-mcp-server
 python3 -m venv .venv
 ```
 
